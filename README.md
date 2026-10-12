@@ -69,5 +69,5 @@ The project focused on analysing sales performance across categories, brands, ge
 ## Project Files
 
 - [View Excel Workbook]((https://drive.google.com/drive/folders/1XbmVWuMbnCmKAuNTmADzZ_D665qA3OTO?usp=drive_link))
-- [View PDF Report](Kartly_Sales_Performance_Summary.pdf)
+- [View PDF Report](Kartly_Insights_Leadership.pdf)
 
