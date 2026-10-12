@@ -66,3 +66,8 @@ Successfully completed the NextLeap Sales Performance Analysis and Dashboard Bui
 The project focused on analysing sales performance across categories, brands, geographical locations and customer segments, defining business metrics, and developing an Excel dashboard to support data-driven decisions.
 
 **Certificate:** [View Certificate](ML2_certificate.pdf)
+## Project Files
+
+- [View Excel Workbook]((https://drive.google.com/drive/folders/1XbmVWuMbnCmKAuNTmADzZ_D665qA3OTO?usp=drive_link))
+- [View PDF Report](Kartly_Sales_Performance_Summary.pdf)
+
