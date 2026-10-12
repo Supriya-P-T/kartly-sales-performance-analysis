@@ -68,6 +68,6 @@ The project focused on analysing sales performance across categories, brands, ge
 **Certificate:** [View Certificate](ML2_certificate.pdf)
 ## Project Files
 
-- [View Excel Workbook]((https://drive.google.com/drive/folders/1XbmVWuMbnCmKAuNTmADzZ_D665qA3OTO?usp=drive_link))
+- [View Excel Workbook]((https://drive.google.com/drive/folders/1XbmVWuMbnCmKAuNTmADzZ_D665qA3OTO?usp=drive_link)](https://docs.google.com/spreadsheets/d/1yB3ht0WYhuNNukrPVP0ii3U-jrPpN7Mk/edit?usp=drive_link&ouid=106876442799617576727&rtpof=true&sd=true))
 - [View PDF Report](Kartly_Insights_Leadership.pdf)
 
